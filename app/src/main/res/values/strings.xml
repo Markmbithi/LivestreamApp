@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Live Matches</string>
+    <string name="btnLive1">KPL Live</string>
+    <string name="kpl_live">KPL Live</string>
+    <string name="live_view_intro">Watch Live Matches</string>
+    <string name="liveVideoName">Live Match</string>
+</resources>
